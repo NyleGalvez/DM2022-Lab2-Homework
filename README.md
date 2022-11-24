@@ -28,4 +28,11 @@ DM2022-Lab2-Homework-Competition - Optimized PreProcessing
     Final Model with Pre-Processing that outperform the other Models that utilize the Pre-Processing Methodology.
     That Being said it did not surpass the main Model.
 
+DM2022-Lab2-Homework-Competition - Optimized PreProcessing - Bert Model
+    It works but requires too much resources to fully train without crashing
+    Fun experiment though.
+    Main is still MAIN
+    UPDATE: It works properly
+            Did not have enough time to properly
+            Just glad it works.
 # The Additional Models Present are for comparsions in the event that someone wishes to improve where I could not.
